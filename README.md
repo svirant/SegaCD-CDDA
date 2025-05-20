@@ -11,6 +11,7 @@ Notes:
  - No cutting necessary. Routing "Spdif/Coax" (RCA) signal through slot in bottom of case and securing board with a screw to an existing mount.
  - I bought my [WM8805](https://www.aliexpress.us/item/3256807436033058.html?) board from AliExpress, but I'm sure you can find one like it elsewhere as well.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WJhAJyL3iVM/0.jpg)](https://www.youtube.com/watch?v=WJhAJyL3iVM)
 ![1a](images/1a.jpg)
 ![1b](images/1b.jpg)
 ![2](images/2.jpg)
